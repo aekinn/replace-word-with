@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 
-// In this video, we will learn how to replace words in C programming
+// How to replace words in C programming
 int i;
 char array[100];
 
